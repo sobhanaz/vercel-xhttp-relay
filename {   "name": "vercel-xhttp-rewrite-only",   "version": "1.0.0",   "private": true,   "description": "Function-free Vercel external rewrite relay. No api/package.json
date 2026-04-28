@@ -1,6 +1,0 @@
-{
-  "name": "vercel-xhttp-rewrite-only",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Function-free Vercel external rewrite relay. No api/ function, so it avoids Fluid Compute and function invocation charges."
-}
